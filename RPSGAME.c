@@ -30,6 +30,7 @@ int grt(char c1,char c2){
 
 }
 int main(){
+    int counter=3;
     int m,n,cs=0,ys=0;
     char uc,cc;
     char data[]={'R','P','S'};
@@ -66,6 +67,7 @@ int main(){
                      cs++;
                  }
                  printf("YOUR SCORE: %d\nCOMPUTER SCORE: %d\n",ys,cs);
+                 printf("%d CHANCES LEFT\n",--counter);
                  printf("----------------------------------------------------------\n");
              }
         if(ys>cs){
