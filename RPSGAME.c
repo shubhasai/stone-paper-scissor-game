@@ -83,7 +83,7 @@ int main(){
           printf("COMPUTER WINS\n ##----BETTER LUCK NEXT TIME!!----##\n");
         }
         else{
-          printf("##----WELL PLAYED! ITS A DRAW----##\n\n");
+          printf("##----WELL PLAYED! ITS A DRAW----##\n");
         }
     }
     return 0;
