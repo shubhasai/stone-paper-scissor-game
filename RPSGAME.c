@@ -45,7 +45,7 @@ int main(){
     else{
             for(int i=0;i<3;i++){
                 printf("%d CHANCES LEFT\n",counter--);
-                 printf("YOUR SCORE: %d\nCOMPUTER SCORE: %d\n",ys,cs);
+                 printf("YOUR SCORE IS : %d\nCOMPUTER SCORE: %d\n",ys,cs);
                  printf("--------------------------\n");
                  printf("CHOOSE:\n1. For ROCK\n2. For PAPER\n3. For SCISSOR\n");
                  printf("-------------\n\n");
