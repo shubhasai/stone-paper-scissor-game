@@ -35,7 +35,7 @@ int main(){
     int m,n,cs=0,ys=0;
     char uc,cc;
     char data[]={'R','P','S'};
-    printf("WELCOME TO ROCK, PAPER AND SCISSOR\n\n");
+    printf("WELCOME TO ROCK, PAPER AND SCISSOR GAME\n\n");
     printf("MENU:\n\n");
     printf("PRESS 1 TO PLAY THE GAME:\nPRESS 2 TO GET HELP:\n");
     scanf("%d",&m);
